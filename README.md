@@ -3,6 +3,8 @@
 ## Author
 Name: Simon Lim
 
+![image](https://github.com/SimonLim03/Data-analysis-for-marketing-campaigns/assets/150989115/aa7247d2-365e-49f7-97ad-8881e1b33f1a)
+
 ## Description
 - A telecommunication company launched a marketing campaign to improve the adoption of 
 their new subscription plan among customers. The telecommunication company has 
