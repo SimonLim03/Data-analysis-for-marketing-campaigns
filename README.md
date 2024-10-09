@@ -1,4 +1,4 @@
-# Data-analysis-for-marketing-campaigns
+# Data-analysis-of-marketing-campaigns
 
 ## Author
 Name: Simon Lim
